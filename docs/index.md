@@ -11,6 +11,6 @@ I am currently a junior at Rutgers University studying Computer Engineering.  I 
 ♦
 
 ### Links
-[About](https://lastaples.github.io/About "About")
+* [About](https://lastaples.github.io/About "About")
 
-[Projects](https://lastaples.github.io/Projects "Projects")
+* [Projects](https://lastaples.github.io/Projects "Projects")
