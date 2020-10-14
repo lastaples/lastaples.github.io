@@ -1,6 +1,11 @@
 ---
 
 -
+ name: Cyber Physical Intelligence Lab
+ description: I work as a research assistant under Professor Jorge Ortiz. I am currently helping to conduct object detection via Yolo in order to identify if
+ people are wearing masks in public or not by analyzing live camera feeds in New York.
+ 
+-
  name: Programming Projects
  url: https://drive.google.com/drive/folders/1qqAk5YQlG9Mwa43tAxMAuZRf4xQyy_MU?usp=sharing
  description: A combination of all my programming assignments in Java, C/C++, Python, and Matlab over the past 3 or 4 years.
