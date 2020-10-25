@@ -1,0 +1,9 @@
+theme: jekyll-theme-hacker
+title: Lindsey Staples's Blog
+description: A compilation of projects (both personal and not) I've done and helped with.
+baseurl: "/"
+url: "https://lastaples.github.io"
+
+pages_list:    
+  Projects: '/Projects'
+  About: '/About'
