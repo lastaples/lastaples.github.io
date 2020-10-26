@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500;700&family=Sanchez&family=Source+Code+Pro&display=swap');
+
+@font-face {
+  font-family: 'Stentiga';
+  src: url('/res/Stentiga/stentiga.woff') format('woff'), url('/res/Stentiga/stentiga.ttf') format('ttf');
+}
+/*
+Colors:
+
+Primary: #880e4f
+Primary-Dark: #560027
+Primary Light: #bc477b
+
+Secondary: #263238
+Secondary-Dark: #000a12
+Secondary-Light: #4f5b62
+
+Text: #fafafa
+
+font-family: 'Archivo', sans-serif;
+font-family: 'Sanchez', serif;
+font-family: 'Source Code Pro', monospace;
+*/
+
+
+
+
+
+
+/* BG colors */
+.bg-pr {
+  background-color: #880e4f;
+}
+
+.bg-pr-dk {
+  background-color: #560027;
+}
+
+.bg-pr-lt {
+  background-color: #bc477b;
+}
+
+.bg-sc {
+  background-color: #263238;
+}
+
+.bg-sc-dk {
+  background-color: #000a12;
+}
+
+.bg-sc-lt {
+  background-color: #4f5b62;
+}
+
+
+/* Text colors */
+.text-color{
+  color: #fafafa;
+  font-family: 'Archivo', sans-serif;
+}
+
+.text-pr {
+  color: #880e4f;
+}
+
+.text-pr-dk {
+  color: #560027;
+}
+
+.text-pr-lt {
+  color: #bc477b;
+}
+
+.text-sc {
+  color: #263238;
+}
+
+.text-sc-dk {
+  color: #000a12;
+}
+
+.text-sc-lt {
+  color: #4f5b62;
+}
+
+/* Font Types */
+.font-sserif {
+  font-family: 'Archivo', sans-serif;
+}
+
+.font-serif {
+  font-family: 'Sanchez', serif;
+}
+
+.font-mono {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.font-display {
+  font-family: 'Stentiga';
+}
