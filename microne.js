@@ -34,8 +34,8 @@ function Microne(parent_el) {
 		position: 'absolute',
 		top: '50%',
 		left: '50%',
-		width: '25px',
-		height: '25px',
+		width: '50px',
+		height: '50px',
 		transform: 'translate(-50%, -50%)',
 		textAlign: 'center',
 		fontWeight: 'bold'
