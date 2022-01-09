@@ -11,7 +11,7 @@ function Microne(parent_el) {
 	_apply_style(this.el, {
 		width: '100%',
 		height: '100%',
-		border: '1px solid #000',
+		border: '3px solid #000',
 		cursor: 'auto',
 		position: 'relative'
 	})
