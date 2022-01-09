@@ -1,1 +1,1 @@
-Just wanted to see if this works :)
+A portfolio for personal projects that I have completed and am working on currently.
